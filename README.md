@@ -17,7 +17,7 @@ Deployed Website: https://surv9vor.github.io/TinDog/
 ## Authors
 
   - **Amit Rawat**
-    [surv9vor](https://surv9vor.github.io/TinDog/)
+    [surv9vor](https://surv9vor.github.io/)
 
 
 ## Acknowledgments
