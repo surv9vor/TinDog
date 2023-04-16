@@ -6,7 +6,7 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 
 Deployed Website: https://surv9vor.github.io/TinDog/
 
-![tindog](./images/Screenshot.png)
+![tindog](./images/SS.png)
 
 ## Built With
 
